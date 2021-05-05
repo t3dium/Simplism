@@ -5,18 +5,18 @@ _This list will be updated every so often with more filters._
 
 Compatibility: I made this through ublock, but **it'll work on any adblock.**
 
-## Current supported websites:
+## Current supported and antibloated websites:
 
-Social Media  | News
-------------- | -------------
-Invidious     |ibtimes         
-youtube       |metro      
-anti-rickroll |wisegeek     
-twitch        |nypost    
-reddit        |thesun
-startpage     |mashable
-searx         |buzzfeed
-duckduckgo    |techcrunch
+Social Media  | News         | Search      | Other
+------------- | -------------|-------------|-------------
+Invidious     |ibtimes       |Duckduckgo   | Amazon
+youtube       |metro         |Searx        | Ebay
+reddit        |wisegeek      |Startpage    | Pexels
+twitch        |nypost        |Qwant        | Anti-Rickrolls
+.             |thesun        |Ecosia       
+.             |mashable      |Metager
+ .            |buzzfeed
+  .           |techcrunch
   .           |tomsguide
  .            |theguardian
    .          |dailymail
@@ -33,6 +33,7 @@ duckduckgo    |techcrunch
 .             |bleepingcomputer
 .             |abcnews
 .             |wikia
+.             |Wikipedia
 
 
 
