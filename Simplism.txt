@@ -494,3 +494,45 @@ invidious.kavin.rocks##footer
 
 ! 2021-05-05 https://vid.puffyan.us
 vid.puffyan.us##footer
+
+! 2021-05-05 https://duckduckgo.com
+duckduckgo.com##.header__label.showcase.header--aside__item > .js-hl-button.header__clickable > .js-popout-trig
+duckduckgo.com##.social.header__label.header--aside__social.header--aside__item > .js-hl-button.header__clickable > .js-popout.popout-trig
+duckduckgo.com##.ddgsi-horn.ddgsi
+duckduckgo.com##.header__label.showcase.header--aside__item > .js-hl-button.header__clickable > .js-popout.popout-trig
+duckduckgo.com##.footer
+duckduckgo.com##.js-feedback-start.feedback-btn__send
+duckduckgo.com##.js-feedback-btn-wrap
+
+! 2021-05-05 https://www.startpage.com
+www.startpage.com##.widget-install-sp-container
+www.startpage.com##.privacy-please-menu__button
+www.startpage.com##.icon-container
+www.startpage.com##.footer__container
+www.startpage.com##.w-gl__label
+
+! 2021-05-05 https://www.reddit.com
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(3) > ._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##._1KrMye71CT332tKKKUWAj6
+www.reddit.com##._34dh2eyzMvJfjCBLeoWiDD
+www.reddit.com##._1G4yU68P50vRZ4USXfaceV._2wqyhtudP4weVGsZdVXJgt
+www.reddit.com##._2EUcwf_tbEz93vN5QWYP7O
+www.reddit.com##._3U7bizV5Ex3dWwKwNODf9R._2pK6e4VBPMQxDuw2kXyIIb > ._1dqZsiXZltYxbQcUoK1Z-Q > ._2jmnnhuP2AL87nZM3exPTR
+www.reddit.com##div._2pK6e4VBPMQxDuw2kXyIIb:nth-of-type(2)
+www.reddit.com##div._2pK6e4VBPMQxDuw2kXyIIb:nth-of-type(7)
+www.reddit.com##div._2pK6e4VBPMQxDuw2kXyIIb:nth-of-type(5)
+www.reddit.com##._1G4yU68P50vRZ4USXfaceV._3Fe8ia7wR8lbatMEJ6BchP
+www.reddit.com##._1oRQu-aolgpPPJDblUGTw5
+www.reddit.com##.Ab_CG1GZxb0mjtooTcgRC.lUMtC2iyxpeA0-GrN-P2x._3UiOKr6dA-zB_4O4l14Icx > ._3ioMyxiI-wWgZFqBDVBh6r
+www.reddit.com##._1fauFKjg428h9E1m4B2Vr-._3ioMyxiI-wWgZFqBDVBh6r
+
+! 2021-05-05 https://searx.be
+searx.be##.searx-navbar
+searx.be##.hidden-xs.panel-default.panel > .panel-body
+searx.be##.hidden-xs.panel-default.panel > .panel-heading
+searx.be##.hidden-xs.panel-default.panel
+searx.be###sidebar_results > p > small
+searx.be##.hide_if_nojs.btn-default.btn
+searx.be##.footer > .container
+searx.be##.footer
