@@ -1,7 +1,7 @@
 # Simplism
 Decrapify websites, and adblock filter/blocklist with sole purpose: Minimalism.
 
-_This list will be updated every so often with more filters. _
+_This list will be updated every so often with more filters._
 
 Compatibility: I made this through ublock, but **it'll work on any adblock.**
 
