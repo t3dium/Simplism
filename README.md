@@ -32,7 +32,7 @@ twitch        |nypost
 .             |bloomberg              
 .             |bleepingcomputer
 .             |abcnews
-.             |wikipedia
+.             |wikia
 
 
 
