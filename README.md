@@ -13,10 +13,10 @@ Invidious     |ibtimes
 youtube       |metro      
 anti-rickroll |wisegeek     
 twitch        |nypost    
-.             |thesun
-  .           |mashable
- .            |buzzfeed
- .            |techcrunch
+reddit        |thesun
+startpage     |mashable
+searx         |buzzfeed
+duckduckgo    |techcrunch
   .           |tomsguide
  .            |theguardian
    .          |dailymail
