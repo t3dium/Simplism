@@ -1,0 +1,496 @@
+! www.ibtimes.co.uk
+! Sidebar with videos, "Read next" etc. useless crap
+www.ibtimes.co.uk##.hidden-print.side-contents.card
+
+! metro.co.uk
+metro.co.uk##.widget.just-in-container.trending-sidebar
+metro.co.uk##.widget.trending-main
+metro.co.uk###widget-area-article-below-bottom-share
+metro.co.uk##.widget.trending-main
+metro.co.uk##.widget.metro-breaker
+metro.co.uk##.widget-area.more-content
+metro.co.uk##.feed.metro-spinner
+metro.co.uk###page-bottom
+metro.co.uk##.metro-sassy-poll
+metro.co.uk##.mobile-nav-trending
+metro.co.uk##.met-breadcrumb
+
+! wisegeek.com
+www.wisegeek.com##.slideshowsBlock.standartBlock
+www.wisegeek.com###quizgeek-game
+
+! nypost.com
+nypost.com##.read-next-wrapper
+nypost.com##.widget-more-stories
+nypost.com##.right-column.sidebar
+nypost.com###page-footer
+nypost.com###newscorp-footer
+
+! thesun.co.uk
+www.thesun.co.uk###sidebar
+www.thesun.co.uk##.rail--trending
+www.thesun.co.uk##footer
+
+! mashable.com
+mashable.com##.bonus-video-card
+mashable.com###site-footer
+
+! buzzfeednews.com
+www.buzzfeednews.com##.newsblock-support-cta--bottom.newsblock-support-cta
+www.buzzfeednews.com##.bottom-recirc-lists
+www.buzzfeednews.com###mod-feedgrid-1
+
+! techcrunch.com
+techcrunch.com##.site-footer
+
+! 1/15/2019 https://techcrunch.com/2018/11/15/mozilla-adds-website-breach-notifications-to-firefox/
+! techcrunch.com##article.post-block--unread.post-block--image.post-block
+
+! tomsguide.com
+www.tomsguide.com###related-content
+
+! [nordic.]businessinsider.com
+businessinsider.com##.carousel-title
+businessinsider.com##.wide-carousel
+www.businessinsider.com###l-rightrail
+
+! theguardian.com
+www.theguardian.com###related-stories
+www.theguardian.com##.content-footer--pillar-news.content-footer
+www.theguardian.com##.footer__primary > .subnav.js-expand-subnav
+www.theguardian.com##.top-bar__commercial-items
+
+! dailymail.co.uk
+www.dailymail.co.uk###most-watched-videos-wrapper
+www.dailymail.co.uk###most-read-news-wrapper
+www.dailymail.co.uk##.beta
+www.dailymail.co.uk##div[class^="nextBtn-"]
+www.dailymail.co.uk##.bdrcc.rotator
+www.dailymail.co.uk###infinite-list
+
+! androidpolice.com
+www.androidpolice.com##.ap-hottest-content-wrapper
+
+! www.digitaltrends.com
+www.digitaltrends.com##.m-river--ad
+www.digitaltrends.com##.h-items.m-river--items
+www.digitaltrends.com##.m-river--paging
+www.digitaltrends.com##.m-next-articles
+www.digitaltrends.com###dt-site-foot
+www.digitaltrends.com##.h-smart-sidebar.l-sidebar
+
+! adweek.com
+www.adweek.com##[id^="job-widget-position-"]
+www.adweek.com##.jobs-widget
+www.adweek.com##.interstitial-container
+
+! nbcnewyork.com
+www.nbcnewyork.com##.tve_cta_container > [href="/live"]
+www.nbcnewyork.com###tve_cta
+www.nbcnewyork.com##.rightrail.article
+
+! reviewgeek.com
+www.reviewgeek.com##.popular-posts.sidebar-popular
+www.reviewgeek.com##.related-articles
+
+! theverge.com
+www.theverge.com##.c-nextclick > .c-related-list > .c-related-list__video
+www.theverge.com##.river-segment-2.l-sidebar-fixed.l-main-content.l-segment > .l-col__main > .c-compact-river > div.c-compact-river__entry:has([href="http://www.voxmedia.com/careers"])
+
+! gizmodo.com
+gizmodo.com##.leftrailmodule--popular.js_leftrailmodule.sidebar-module
+
+! bbc.com
+www.bbc.com###comp-pattern-library
+www.bbc.com###comp-elsewhere-on-the-bbc
+www.bbc.com###comp-most-popular
+www.bbc.com###comp-features-and-analysis
+www.bbc.com###comp-top-stories-promo
+www.bbc.com##.more-on-this-story.story-alsos.group
+www.bbc.com##.tags-container
+
+! businessinsider.nl
+www.businessinsider.nl##.comments-wrap
+www.businessinsider.nl##.related-video
+www.businessinsider.nl##.sidebar__desktop.sidebar > .ll_partnerexpert.widget
+www.businessinsider.nl##.sidebar__desktop.sidebar
+www.businessinsider.nl###site-footer
+
+! www.cnbc.com
+www.cnbc.com##[class^="ArticleTicker-"]
+www.cnbc.com##.PageBuilder-sidebar.SidebarArticle-sidebar
+www.cnbc.com##.TransporterSection-transporterWrapper
+www.cnbc.com##[id^="Placeholder-ArticleBody-Video-"]
+www.cnbc.com###GlobalFooter
+
+! bloomberg.com
+www.bloomberg.com##.right-rail-v2.right-rail
+
+! theintercept.com
+theintercept.com##.InlineDonationPromo
+theintercept.com##a.Header-social-link > .icon-TI_Facebook.Icon--Facebook.Icon
+
+! www.bleepingcomputer.com
+www.bleepingcomputer.com##.bc_right_sidebar.col-md-4
+
+! abcnews.go.com
+abcnews.go.com##[class^="StoryPage__sideBar--"]
+abcnews.go.com##[class^="RelatedInterestStories__container"]
+abcnews.go.com##[class^="StoryPage__content--"] > [class^="Spinner__spinner--"]
+abcnews.go.com###news-feed-content.sidebar
+
+
+! mashable.com
+mashable.com##.sidebar.box-cell
+mashable.com##.zerg-widgets
+
+! wired.com
+www.wired.com##.fade-in-up.paywall.inset-left-component:has([href^="https://www.wired.com/tag/year-in-review/"])
+www.wired.com##.inset-left-component--article.fade-in-up.paywall.inset-left-component:has-text(Related Stories)
+www.wired.com##.related-cne-video-component__brow
+www.wired.com##.related-cne-video-component
+www.wired.com##.article-main-component__columns > .most-popular-side-bar-component
+! "read next" etc
+www.wired.com##.outer-wrapper
+
+
+! mashable.com
+mashable.com##.sidebar.box-cell
+mashable.com##.zerg-widgets
+
+! additional
+! wired.com
+www.wired.com##.fade-in-up.paywall.inset-left-component:has([href^="https://www.wired.com/tag/year-in-review/"])
+www.wired.com##.inset-left-component--article.fade-in-up.paywall.inset-left-component:has-text(Related Stories)
+www.wired.com##.related-cne-video-component__brow
+www.wired.com##.related-cne-video-component
+www.wired.com##.article-main-component__columns > .most-popular-side-bar-component
+! "read next" etc
+www.wired.com##.outer-wrapper
+
+! Removes the YouTube Gaming button in the left-hand menu
+www.youtube.com#?#ytd-guide-entry-renderer:-abp-has(a[href*="/gaming"])
+
+! Removes the Trending button in the left-hand menu
+m.youtube.com##.scbrr-tab[href="/feed/trending"]
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+
+! Removes the Discover button in the left-hand menu
+www.youtube.com#?#ytd-guide-entry-renderer:-abp-has(a[href*="feed/guide_builder"])
+
+! Removes the pop-out player button in the video player
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+
+! Removes the Livestream button in the left-hand menu
+www.youtube.com#?#ytd-guide-entry-renderer:-abp-has(a[href*=UC4R8DWoMoI7CAwX8_LjQHig])
+
+! Removes the Homepage button in the left-hand menu
+www.youtube.com#?#ytd-guide-entry-renderer:-abp-has(a[href="/"])
+www.youtube.com#?#ytd-mini-guide-entry-renderer:-abp-has(a[href="/"])
+m.youtube.com##.scbrr-tab[href="/"]
+m.youtube.com##ytm-pivot-bar-item-renderer:first-of-type
+
+! Removes the video store button in the left-hand menu
+www.youtube.com#?#ytd-guide-entry-renderer:-abp-has(a[href*=UClgRkhTL3_hImCAmdLfDE4g])
+
+! Removes the app drawer in the top-right menu
+www.youtube.com#?##button:-abp-has([aria-label*=app])
+
+! Removes video suggestions
+##.ytp-endscreen-content
+youtube.com,youtubekids.com###related
+m.youtube.com##ytm-watch ytm-compact-video-renderer
+m.youtube.com##[section-identifier=related-items]
+/annotations_module.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
+/endscreen.js$script,domain=youtube.com|youtu.be|youtube-nocookie.com
+invidious.snopyta.org,yewtu.be,invidious.tube,invidious.kavin.rocks,tube.connect.cafe,invidious.zapashcanon.fr,invidious.fdn.fr,invidiou.site,vid.mint.lgbt,invidious.site,invidious.048596.xyz,invidious.zee.li,vid.puffyan.us,c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion,w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion,kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion,invidious.3o7z6yfxhbw7n3za4rss6l434kmv55cgw2vuziwuigpwegswvwzqipyd.onion,grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion,tube.incognet.io#?#.pure-u-lg-1-5 > .h-box:-abp-has(.pure-u-14-24)
+hooktube.com#?#.col-lg-4:-abp-has(#video-list)
+! Seems to remove "Recommended for you" suggestions
+||youtube.com/related_ajax^
+
+! Removes the like/dislike counters
+youtube.com##ytd-toggle-button-renderer #text
+youtube.com###sentiment
+m.youtube.com##.slim-video-metadata-actions > [data-button-id]:first-of-type .button-renderer-text
+m.youtube.com##.slim-video-metadata-actions > [data-button-id]:nth-of-type(2) .button-renderer-text
+invidious.snopyta.org,yewtu.be,invidious.tube,invidious.kavin.rocks,tube.connect.cafe,invidious.zapashcanon.fr,invidious.fdn.fr,invidiou.site,vid.mint.lgbt,invidious.site,invidious.048596.xyz,invidious.zee.li,vid.puffyan.us,c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion,w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion,kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion,invidious.3o7z6yfxhbw7n3za4rss6l434kmv55cgw2vuziwuigpwegswvwzqipyd.onion,grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion,tube.incognet.io#?#.h-box > p:-abp-has(i[class*=ion-ios-thumbs-])
+hooktube.com###video-stats .text-right
+hooktube.com###progress-bar-likes
+twitch.tv#?#.ffz__tooltip .stats:-abp-contains(👍):-abp-contains(👎)
+
+! Removes the large grey [YouTube Kids / game info] buttons below gaming videos
+youtube.com##ytd-rich-metadata-renderer.ytd-rich-metadata-row-renderer
+m.youtube.com##ytm-watch-metadata-app-promo-renderer
+m.youtube.com##ytm-rich-metadata-renderer
+
+! Removes the Share arrow button in fullscreen mode and in embeds
+youtube.com,youtube-nocookie.com##button[class*=share-button]
+
+! Aims to prevent video suggestions from showing up when pausing embedded videos
+##.ytp-scroll-min
+##.ytp-pause-overlay
+
+! Removes the frontpage link from the upper left YouTube logo (Not supported by ABP or AdBlock)
+youtube.com#?##logo:style(pointer-events: none !important; cursor: default !important)
+
+! Removes video epilogue suggestion overlays
+youtube.com##.ytp-ce-element-show
+
+! Removes a banner that promotes YouTube Premium
+youtube.com###masthead-ad
+
+! Believed to remove sponsored description links inserted by rights holders
+www.youtube.com##ytd-metadata-row-renderer
+
+! Removes the Explore buttons in the left-hand menu
+www.youtube.com#?#ytd-guide-entry-renderer:-abp-has(a[href*="feed/explore"])
+www.youtube.com#?#ytd-mini-guide-entry-renderer:-abp-has(a[href*="feed/explore"])
+
+! ————————————————————————————————————————————————————————————————
+
+! ——— Comment sections that are not covered by "Pure Viewing Experience" ———
+
+! Removes the comment section on phones
+m.youtube.com##ytm-comment-section-renderer
+
+! Removes the comment section on livestreams
+youtube.com##ytd-live-chat-frame
+
+! Removes the comment section on livestream VoDs
+youtube.com###watch-discussion
+
+! Removes the comment section on third-party GUIs
+invidious.snopyta.org,yewtu.be,invidious.tube,invidious.kavin.rocks,tube.connect.cafe,invidious.zapashcanon.fr,invidious.fdn.fr,invidiou.site,vid.mint.lgbt,invidious.site,invidious.048596.xyz,invidious.zee.li,vid.puffyan.us,c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion,w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion,kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion,invidious.3o7z6yfxhbw7n3za4rss6l434kmv55cgw2vuziwuigpwegswvwzqipyd.onion,grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion,tube.incognet.io###comments
+
+! ————————————————————————————————————————————————————————————————
+
+! ——— "Disable Polymer" mode ———
+
+! Removes the Homepage button in the left-hand menu when using "Disable polymer"
+www.youtube.com###what_to_watch-guide-item
+
+! Removes the video store and YouTube Gaming buttons in the left-hand menu when using "Disable polymer"
+www.youtube.com##li.guide-section:nth-of-type(5) > .personal-item.guide-item-container > .yt-box.yt-uix-tdl.guide-user-links
+
+! Removes the Discover button in the left-hand menu when using "Disable polymer"
+www.youtube.com##li.guide-section:nth-of-type(4)
+
+! Removes the Trending button in the left-hand menu when using "Disable polymer"
+www.youtube.com###trending-guide-item
+
+! Attempts to remove YouTube frontpage recommended videos and channels when using "Disable polymer" (and using YouTube in a Germanic language)
+www.youtube.com#?#.feed-item-container.browse-list-item-container:-abp-has(.shelf-title-annotation:-abp-contains( for ))
+
+! Removes the like/dislike counters
+www.youtube.com##.like-button-renderer-like-button > .yt-uix-button-content
+www.youtube.com##.like-button-renderer-dislike-button > .yt-uix-button-content
+www.youtube.com##.video-extras-sparkbars
+
+! ————————————————————————————————————————————————————————————————
+
+! ——— "TV" mode ———
+
+! Removes most video suggestions in TV mode
+! Sadly, at least one suggestion had to remain in each row, or else you couldn't browse down to the Home and Search buttons.
+www.youtube.com##.exp-enable-live-seeking > #leanback > #app-markup > #watch > #bottom-half .pivot-row .watchable-tile:not(:first-of-type)
+
+! Removes the Trending button in the top bar. At least I think it's the Trending button.
+www.youtube.com##div.top-nav-tab:nth-of-type(2)
+
+! Removes the Gaming button in the top bar
+www.youtube.com#?#div.top-nav-tab:-abp-contains(/^Gaming$/)
+
+! ————————————————————————————————————————————————————————————————
+
+! ——— YouTube Android apps (Requires "AdGuard for Android") ———
+
+!#if adguard_app_android
+! Removes comments on video pages
+||youtube.com/live_chat_fragments_ajax?$app=com.google.android.youtube|com.google.android.apps.youtube.music|com.google.android.apps.youtube.vr|com.google.android.youtube.tv|com.google.android.youtube.googletv
+||youtube.com/comment_service_ajax?$app=com.google.android.youtube|com.google.android.apps.youtube.music|com.google.android.apps.youtube.vr|com.google.android.youtube.tv|com.google.android.youtube.googletv
+
+! Removes video suggestions
+/annotations_module.js$app=com.google.android.youtube|com.google.android.apps.youtube.music|com.google.android.apps.youtube.vr|com.google.android.youtube.tv|com.google.android.youtube.googletv
+/endscreen.js$app=com.google.android.youtube|com.google.android.apps.youtube.music|com.google.android.apps.youtube.vr|com.google.android.youtube.tv|com.google.android.youtube.googletv
+||youtube.com/annotations_invideo?$app=com.google.android.youtube|com.google.android.apps.youtube.music|com.google.android.apps.youtube.vr|com.google.android.youtube.tv|com.google.android.youtube.googletv
+
+! Removes recommended and featured videos in the endscreen
+||ytimg.com/yts/swfbin/player-*/endscreen.swf$app=com.google.android.youtube|com.google.android.apps.youtube.music|com.google.android.apps.youtube.vr|com.google.android.youtube.tv|com.google.android.youtube.googletv
+!#endif
+
+! Removes comments on video pages
+||youtube.com/live_chat_fragments_ajax?$xmlhttprequest
+||youtube.com/comment_service_ajax?$domain=youtube.com|youtu.be|youtube-nocookie.com
+youtube.com###comments
+! Removes all annotations in videos
+||youtube.com/annotations_invideo?$object-subrequest
+! HTML5 version
+youtube.com,youtube-nocookie.com##.video-annotations
+! Removes video suggestions on video pages
+youtube.com##.watch-sidebar-body > #watch-related > .related-list-item
+! Removes recommended channels on home page, susbcriptions page and feed
+youtube.com##.home .branded-page-v2-secondary-col
+youtube.com##.feed .branded-page-v2-secondary-col
+youtube.com##.guide-builder-v2 .branded-page-v2-secondary-col
+! Removes sharing tab below videos
+||youtube.com/share_ajax?action_get_share_box=1&video_id=$xmlhttprequest
+youtube.com##.action-panel-trigger[role=button][data-trigger-for=action-panel-share]
+youtube.com##.yt-uix-button[data-trigger-for=action-panel-share]
+! Removes recommended and featured videos in the endscreen
+||ytimg.com/yts/swfbin/player-*/endscreen.swf$object-subrequest,domain=youtube.com|youtu.be|youtube-nocookie.com
+youtube.com,youtube-nocookie.com##.html5-endscreen-content
+youtube.com,youtube-nocookie.com##.html5-endscreen
+! Removes related/featured/popular channels on channel pages
+youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .yt-uix-tooltip
+youtube.com##.branded-page-v2-secondary-col > .branded-page-related-channels > .yt-uix-tooltip + .branded-page-related-channels-list
+! "Subscribe to see more videos from this channel" on home page after watching some video of a channel
+youtube.com###channel-subscription-promo-in-feed
+
+! An attempt to remove the privacy notice overlay
+wikia.org,fandom.com##._1ouSF3xnwUjIOquxopuxSZ
+
+! Removes the adbar on the bottom
+wikia.org,fandom.com###WikiaBarWrapper
+
+! Removes the "Topics" links from the top navigation bar
+wikia.org,fandom.com##.wds-global-navigation__links
+
+! Removes the "Topics" links from the bottom menu
+wikia.org,fandom.com##.wds-global-footer__fandom-sections
+
+! Removes the Fan Feeds
+wikia.org,fandom.com##.mcf-mosaic
+wikia.org,fandom.com###mixed-content-footer
+wikia.org,fandom.com##.SearchAdsTopWrapper
+||vignette.wikia.nocookie.net/vuh^
+
+! Removes sticky notifications from the bottom right
+wikia.org,fandom.com###WikiaNotifications
+
+! Remove links in the Popular Pages sidebar that are to sponsored pages on other wikis
+wikia.org,fandom.com##.rail-sponsored-content
+
+! Aims to remove videos that have been baked into the pages by Wikia
+fandom.com,wikia.org##.featured-video__wrapper
+fandom.com,wikia.org#?#.banner-notifications-placeholder:-abp-contains(The video)
+
+! Removes ads or leftover empty boxes
+###WikiaTopAds
+##.wikia-ad
+
+! Extraordinarily bad Wikias that you don't want to use
+||lostmediaarchive.fandom.com$document
+||theyayapocalypse.fandom.com$document
+||the-secret-world-of-the-animated-characters.fandom.com^$document
+
+! Removes the fandom.wikia.com link from the logos
+wikia.org,fandom.com#?##wds-company-logo-fandom-white:style(pointer-events: none !important; cursor: default !important;)
+wikia.org,fandom.com#?#.wds-global-navigation__logo:style(pointer-events: none !important; cursor: default !important)
+wikia.org,fandom.com#?#.wds-global-footer__header:style(pointer-events: none !important; cursor: default !important)
+
+! Removes ads for DnD Beyond and other Wikias on mobile browsers
+wikia.org,fandom.com##.aff-big-unit
+wikia.org,fandom.com##.aff-unit__disclaimer-message
+wikia.org,fandom.com##.article-body .post-search-results
+wikia.org,fandom.com##.post-search-results__slant
+
+! Removes the "Recommended channels" section when you're logged on
+www.twitch.tv##.recommended-channels
+www.twitch.tv##.tw-flex-grow-1 > div:nth-of-type(1) > .side-nav-section:nth-of-type(2)
+www.twitch.tv#?#.side-nav-section:-abp-has(path[d="M12.002 3.999a2 2 0 012 2v2L18 6v8l-3.998-2v2a2 2 0 01-2 1.999h-8a2 2 0 01-2-2V6a2 2 0 012-2h8zM12 6H4v8h8V6z"])
+
+! Removes the "Recommended channels" section when you're not logged on
+www.twitch.tv##.tw-full-width > .tw-mg-b-2
+
+! Attempts to remove suggestions from the "Following" page
+www.twitch.tv#?#div:-abp-has(> .tw-mg-b-1 > h4[data-a-target=live-channels-header]) + div
+
+! Aims to remove the spacing between Twitch emotes, for the sake of multi-part emotes
+twitch.tv#?#.message > span:-abp-contains(/^ $/)
+clips.twitch.tv#?#span.text-fragment:not(:-abp-contains(/\S/))
+
+! Desperately tries to remove the "Popular videos [from everywhere]" row and most likely failing at it.
+clips.twitch.tv#?#div:nth-of-type(3):-abp-has(> .tw-pd-y-2)
+
+! Removes the ungodly awful Hype Train chat banner
+www.twitch.tv##.community-highlight-stack__card
+
+! Aims to remove mass spamming of "!play" on streams of 'Marbles on Stream'
+twitch.tv#?#div[class$=message]:not(.tw-inline):-abp-has(.message:-abp-contains(/^!play$/))
+
+! Aims to remove that one RPG-loot-game embed window that is on some Twitch channels
+twitch.tv#?#.channel-panels-container div[style^=position]:-abp-has(a[href^="/ext/ro13roxp88918kulntih9uzm7vs9jr"])
+
+! Removed a seemingly blank community message floaty on top of chat
+www.twitch.tv##.community-highlight-stack__backlog-card
+
+! ——— ↓ Not supported by ABP or AdBlock ↓ ———
+
+! Reduces the size of the chat header
+www.twitch.tv#?#.video-chat__header:style(height: 20px !important)
+www.twitch.tv#?#.tw-pd-r-1.tw-pd-l-2.tw-justify-content-between.tw-full-width:style(height: 2rem)
+
+! Broadens the chat textbox
+www.twitch.tv#?#.tw-flex-shrink-0.tw-full-width.tw-pd-b-2.tw-pd-t-1.tw-pd-x-2.video-chat__input:style(padding: 4px 1px 1px !important)
+www.twitch.tv#?#.tw-textarea.tw-textarea--no-resize:style(padding: 1px 35px !important; height: 55px !important)
+www.twitch.tv#?#.chat-input.tw-block:style(padding: 0 3px 2px !important)
+
+! Reduces the size of the "Hosting [channel]" header
+twitch.tv#?#.tw-align-items-center.tw-flex.tw-flex-nowrap.tw-justify-content-between.tw-pd-1:style(padding-top: 0 !important; padding-bottom: 0 !important)
+
+! Narrows the spacing between the chat comments
+twitch.tv#?#.chat-line__message:style(padding: 2px 4px !important)
+twitch.tv#?#.tw-full-width.tw-pd-l-05.tw-pd-y-05.vod-message:style(padding: 2px 4px !important)
+clips.twitch.tv#?#.clips-chat-replay > .tw-mg-b-1:style(margin-bottom: 2px !important)
+
+! Narrows the spacing between the chat comments in mobile browser mode
+m.twitch.tv#?#li.chat-message:style(padding: 2px !important)
+
+! Maximises the size of the clip viewer pages
+clips.twitch.tv#?#.clips-watch.tw-lg-pd-b-5.tw-pd-b-2.tw-sm-pd-b-3:style(max-width: none)
+
+! Makes avatars square again without having to use FrankerFaceZ
+twitch.tv#?#.tw-avatar > img.tw-border-radius-rounded:style(border-radius: unset !important)
+
+! Removes the "Related users" sections
+twitter.com##.RelatedUsers
+twitter.com##.WhoToFollow
+twitter.com##div[data-testid=sidebarColumn] > div > div > div > div > div > div > div:nth-of-type(3)
+
+! Removes the Trending list
+twitter.com##div[data-testid=sidebarColumn] section > div[aria-label]
+||twitter.com/i/trends?
+twitter.com##.trends-inner
+twitter.com##.r-1u4rsef.r-9cbz99
+
+! Removes the "You might like" section
+twitter.com##div[data-testid=sidebarColumn] div[style="margin-top: 0px;"] + div:last-of-type aside
+twitter.com#?#div[data-testid=sidebarColumn] div[style="margin-top: 0px;"] + div:last-of-type > div > div > div > div:-abp-has(> aside[role])
+
+! Removes "Who to follow" box headers and footers from user timelines
+twitter.com#?#div[data-testid=primaryColumn] div:-abp-has(> div > div > h2[role=heading] > div[dir=auto] > span)
+twitter.com#?#div:-abp-has(> div > a[href^="/i/connect_people"])
+! https://github.com/DandelionSprout/adfilt/issues/122
+twitter.com#?#nav[aria-label][role=navigation] + div > section > div[aria-label^=Timeline] > div[style] > div[style]:-abp-has([data-testid$=-follow])
+
+! Removes the topics-group carousel in user timelines
+!!! twitter.com##section[aria-labelledby=accessible-list-1]
+
+! Removes login nags
+twitter.com#?##layers > div[class*=" "]:first-of-type:-abp-has(a[href="/i/flow/signup"])
+! https://mobile.twitter.com/nasuno_Posi
+twitter.com##div[data-testid=sidebarColumn] section[aria-label][role=region]
+
+! Removes the cookie sticky on bottom
+twitter.com###layers > div > div:nth-of-type(2):last-of-type
+
+! 2021-05-05 https://invidious.snopyta.org
+invidious.snopyta.org##div.h-box:nth-of-type(2)
+invidious.snopyta.org##footer
+
+! 2021-05-05 https://invidious.kavin.rocks
+invidious.kavin.rocks##div.h-box:nth-of-type(2)
+invidious.kavin.rocks##footer
+
+! 2021-05-05 https://vid.puffyan.us
+vid.puffyan.us##footer
