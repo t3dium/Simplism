@@ -7,36 +7,32 @@ Compatibility: I made this through ublock, but **it'll work on any adblock.**
 
 ## Current supported websites:
 
-**Social Media:**
-Invidious
-Youtube
-Anti-Rickroll
-twitch
-wikipedia
+Social Media  | News
+------------- | -------------
+Invidious     |ibtimes         
+youtube       |metro      
+anti-rickroll |wisegeek     
+twitch        |nypost    
+.             |thesun
+  .           |mashable
+ .            |buzzfeed
+ .            |techcrunch
+  .           |tomsguide
+ .            |theguardian
+   .          |dailymail
+.             |androidpolice                 
+   .          |digitaltrends            
+.             |adweek             
+.             |nbcnewyork
+.             |reviewgeek           
+.             |theverge             
+.             |bbc           
+.             |spectrum              
+.             |bussinessinsider        
+.             |bloomberg              
+.             |bleepingcomputer
+.             |abcnews
+.             |wikipedia
 
 
-**News sites:**
-ibtimes
-metro
-wisegeek
-nypost
-thesun
-mashable
-buzzfeed
-techcrunch
-tomsguide
-theguardian
-dailymail
-androidpolice
-digitaltrends
-adweek
-nbcnewyork
-reviewgeek
-theverge
-bbc
-spectrum
-bussinessinsider
-bloomberg
-bleepingcomputer
-abcnews
-wired
+
