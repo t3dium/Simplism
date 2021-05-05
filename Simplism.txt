@@ -536,3 +536,104 @@ searx.be###sidebar_results > p > small
 searx.be##.hide_if_nojs.btn-default.btn
 searx.be##.footer > .container
 searx.be##.footer
+
+! 2021-05-05 https://www.wikipedia.org
+www.wikipedia.org##.site-license
+www.wikipedia.org##hr:nth-of-type(2)
+www.wikipedia.org###js-lang-list-button
+www.wikipedia.org##.app-badges.footer-sidebar > .footer-sidebar-content > .footer-sidebar-text
+www.wikipedia.org##.jsl10n.footer-sidebar-text > [href]
+www.wikipedia.org##.jsl10n.footer-sidebar-text
+www.wikipedia.org##div.footer-sidebar-text:nth-of-type(3)
+www.wikipedia.org##.svg-Wikimedia-logo_black.sprite.footer-sidebar-icon
+
+! 2021-05-05 https://en.wikipedia.org
+en.wikipedia.org###p-personal > .vector-menu-content > .vector-menu-content-list
+en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-lang.mw-portlet
+en.wikipedia.org##.portal.vector-menu-portal.vector-menu.mw-portlet-interaction.mw-portlet
+en.wikipedia.org##[href^="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector"]
+en.wikipedia.org###n-contactpage > [href="//en.wikipedia.org/wiki/Wikipedia:Contact_us"]
+en.wikipedia.org###n-aboutsite > [href="/wiki/Wikipedia:About"]
+en.wikipedia.org###t-cite > [href^="/w/index.php"]
+en.wikipedia.org###footer-info-copyright
+en.wikipedia.org###footer-copyrightico
+||en.wikipedia.org/static/images/footer/poweredby_mediawiki_*.png$image
+en.wikipedia.org##[href="https://foundation.wikimedia.org/wiki/Cookie_statement"]
+en.wikipedia.org###footer-places
+||en.wikipedia.org/static/images/footer/poweredby_mediawiki_*.png$image
+en.wikipedia.org##table.sistersitebox.plainlinks.mbox-small:nth-of-type(1)
+
+! 2021-05-05 https://privacytools.io
+privacytools.io##footer > footer
+privacytools.io##p:nth-of-type(4)
+privacytools.io##a.nav-anchor:nth-of-type(3)
+privacytools.io##.mt-5.alert-info.alert
+
+! 2021-05-05 https://www.ebay.com
+www.ebay.com###hlGlobalFooter
+www.ebay.com###rtm_list3 > .focus-inset.hl-color-block-banner__image-link > .hl-image__fill.hl-color-block-banner__image.js-only.hl-image-js.hl-image > .hl-image__background
+www.ebay.com##.hl-atf-module-js.off-card.hl-loyalty.hl-module
+
+! 2021-05-05 https://www.amazon.com
+www.amazon.com##.sign-in-v2.gw-sign-in.a-cardui
+www.amazon.com##.nav-sprite-v1.navLeftFooter
+www.amazon.com##.rhf-frame
+
+! 2021-05-05 https://www.reddit.com
+www.reddit.com##.UserAgreement
+www.reddit.com##.Sso__divider
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(6)
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(7)
+www.reddit.com##.ULWj94BYSOqoJDetxgcnU
+www.reddit.com##._1vh4u-B3eHXE3-ko0huS20._2hSecp_zkPm_s5ddV2htoj._2X6EB3ZhEeXCh1eIVA64XM
+www.reddit.com##._2pf-KRzaHwj_TjBcOIDrWG
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(2)
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(5)
+www.reddit.com##div._1Y_VNBcV1dWk6Y7xcJHQyQ:nth-of-type(8)
+
+! 2021-05-05 https://metager3.de
+metager3.de##.metager3-unstable-warning-static-pages.alert-info.alert
+metager3.de###scroll-links
+metager3.de###plugin-btn
+||metager3.de/img/key-icon.svg$image
+metager3.de##div.quicktip:nth-of-type(2)
+metager3.de##div.quicktip > .quicktip-summary
+metager3.de##.metager3-unstable-warning-resultpage.alert-info.alert
+metager3.de###result-count
+metager3.de##.noprint.resultPageFooter
+
+! 2021-05-05 https://www.ecosia.org
+www.ecosia.org##.main-dfooter--align-center.main-footer
+www.ecosia.org##.icon-button--rounded.icon-button--variant-bare.icon-button--size-m.icon-button--elevation-0.icon-button.scroll-down
+www.ecosia.org##.above-fold-cta-section__cta-wrap > .cta > .button--text-size-l.button--size-l.button--variant-solid-primary.button.cta__button
+www.ecosia.org##.small-footer
+www.ecosia.org##.after-results-info
+
+! 2021-05-05 https://www.qwant.com
+www.qwant.com##.Footer-module__fixed___3yHDz.Footer-module__container___vsDRR.Text-module__secondary___1UMq0.Text-module__caption-1___EYH0z.Text-module__typo___2-LMx
+www.qwant.com##.Flex-module__center___2VIUB.Flex-module__column___1m4v1.Flex-module__flex___35zId
+www.qwant.com##.Box-module__marginBottomxxl8___2MP68.Flex-module__center___2VIUB.Flex-module__flex___35zId.DownloadQwantAddon-module__container___1-27y > .Flex-module__center___2VIUB.Flex-module__flex___35zId.Text-module__body-2___XqdKF.Text-module__typo___2-LMx.Button-module__tertiary___1raHf.Button-module__Button___y3BMZ
+www.qwant.com##div.Flex-module__flex___35zId.AppMenu-module__linkAppMenu___1-yQw > [href^="/"]
+www.qwant.com##.Flex-module__end___1Agzs.Flex-module__flex___35zId > .Flex-module__alignCenter___24fCk.Flex-module__flex___35zId
+www.qwant.com##.Box-module__marginBottoms___3ju-m > .Text-module__primary___3dYti.Text-module__body-1___r8xPw.Text-module__typo___2-LMx
+www.qwant.com##.Footer-module__container___vsDRR.Text-module__secondary___1UMq0.Text-module__caption-1___EYH0z.Text-module__typo___2-LMx
+www.qwant.com##.Box-module__paddingTopxxl8___2kg5T
+
+! 2021-05-05 https://www.pexels.com
+www.pexels.com##.search__header
+www.pexels.com##.search__header__no-result-suggestions-query
+www.pexels.com##.main-nav-bar__logo__text.hide-when-mid-size-and-smaller
+www.pexels.com##.footer
+www.pexels.com##.action-box
+
+! 2021-05-05 https://www.bbc.com
+www.bbc.com##aside
+www.bbc.com##.orb-footer
+www.bbc.com##.b-pw-1280.gs-u-box-size.no-touch.ws-c-social-slice
+
+! 2021-05-05 https://duckduckgo.com
+duckduckgo.com##.has-content-height.about-module.js-module--wikipedia_fathead.module--zci-wikipedia_fathead.module--about.module > .feedback-prompt
+
+! 2021-05-05 https://www.mirror.co.uk
+www.mirror.co.uk###utility-links
+www.mirror.co.uk##.kitemarks
