@@ -2270,3 +2270,46 @@ www.dailymail.co.uk##.billboard.adHolder
 www.dailymail.co.uk##[href="/home/weather/index.html"] > span
 ||i.dailymail.co.uk/i/channelheaders/lockdown/409.png$image
 ||i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png$image
+
+! 2021-05-06 https://www.thesun.co.uk
+www.thesun.co.uk##.advert-wrapper--placeholder.advert-wrapper--leaderboard.advert-wrapper > .advert-wrapper__placeholder-inner.dfp-ad
+www.thesun.co.uk##.sun-extended-header__container
+||www.thesun.co.uk/wp-content/themes/thesun/images/sunmasthead.svg$image
+www.thesun.co.uk##.follow.no-gutters.sun-col-2.col > .sign-in > [href^="https://login.thesun.co.uk"]
+www.thesun.co.uk##.back-to-top
+www.thesun.co.uk##div#page-social.social--article.social:nth-of-type(2)
+
+! 2021-05-06 https://www.mozilla.org
+www.mozilla.org##.c-banner-inner > .mzp-l-content
+www.mozilla.org##.c-navigation-fxa-cta.mzp-t-md.mzp-t-secondary.mzp-t-product.mzp-c-button.js-fxa-cta-link
+www.mozilla.org##.mzp-t-firefox.mzp-t-dark.mzp-has-image.privacy-promise-hero.mzp-c-hero
+||www.mozilla.org/media/protocol/img/icons/close.73e5756fc7ce.svg$image
+www.mozilla.org##.mzp-t-dark.c-footer
+www.mozilla.org##.hide-from-legacy-ie.mzp-t-dark.mzp-t-firefox.mzp-t-product-firefox.fxaccount-secondary-cta.mzp-c-call-out-compact > .mzp-l-content
+www.mozilla.org##.mzp-c-newsletter
+www.mozilla.org##.mzp-l-billboard-right.mzp-c-billboard
+www.mozilla.org##.mzp-l-billboard-left.mzp-c-billboard
+www.mozilla.org##.mzp-t-product-firefox.mzp-l-reverse.mzp-t-mozilla.mzp-has-image.pocket-sunny-hero.mzp-c-hero
+www.mozilla.org##.tagline
+www.mozilla.org##.c-menu-title
+
+! 2021-05-06 https://beebom.com
+beebom.com##.headerads.adsbygoogle
+||beebom.com/wp-content/uploads/2014/11/Hiring.png$image
+beebom.com##.td-footer-template-14.td-footer-wrapper
+beebom.com##.td-pb-row.wpb_row.tdi_22_89b.vc_custom_1548400180888.vc_row
+beebom.com##.td-sub-footer-container > .td-container > .td-pb-row
+
+! 2021-05-06 https://www.lifewire.com
+www.lifewire.com##.show-banner.bottom.ot-iab-2.vertical-align-content.otFlat
+www.lifewire.com##.ot-fade-in.onetrust-pc-dark-filter
+www.lifewire.com##.mntl-block.social-share-block.comp
+www.lifewire.com###mntl-newsletter-submit_1-0 > .mntl-button.mntl-newsletter-submit__button.btn-go.btn.comp
+www.lifewire.com##li.header-nav__list-item > [href="/about-us-5081224"]
+www.lifewire.com##[href="https://www.lifewire.com/eco-5089303"]
+www.lifewire.com##.mntl-block.feedback-display.comp
+www.lifewire.com##.mntl-block.article-review-byline.byline-article-reviewed-by.comp
+www.lifewire.com##.footer.comp
+www.lifewire.com##.is-requested.dynamic.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-flexible-leaderboard.leaderboard.leaderboard-deferred-footer.leaderboard2-deferred-footer.js-lazy-ad.has-right-label.comp
+www.lifewire.com##.not-sticky.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-flexible-leaderboard.mntl-leaderboard-header.has-right-label.leaderboard--header.comp
+www.lifewire.com##.left-rail.loc
