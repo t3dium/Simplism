@@ -2182,7 +2182,6 @@ moourl.com/09773#body
 moourl.com/09773$script
 youtube.com/get_video?video_id=Kmt4wrn1MTk
 youtube.com/get_video?video_id=vvs7cXmVwN8
-!
 
 assets.cookieconsent.silktide.com
 policy.cookiereports.com
