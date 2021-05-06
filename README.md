@@ -37,6 +37,9 @@ twitch        |nypost        |Qwant        | Anti-Rickrolls
 .             |Wikipedia
 .             |itsfoss
 .             |linuxhint
+.             |beebom
+.             |mozilla
+.             |lifewire
 
 
 
