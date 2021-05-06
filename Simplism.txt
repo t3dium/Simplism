@@ -637,3 +637,78 @@ duckduckgo.com##.has-content-height.about-module.js-module--wikipedia_fathead.mo
 ! 2021-05-05 https://www.mirror.co.uk
 www.mirror.co.uk###utility-links
 www.mirror.co.uk##.kitemarks
+
+! 2021-05-06 https://itsfoss.com
+itsfoss.com##div.wp-block-column > h2
+itsfoss.com##div.alignwide.wp-block-columns:nth-of-type(3)
+itsfoss.com##div.wp-block-column:nth-of-type(1)
+itsfoss.com##.no-border-radius.has-background.wp-block-button__link
+itsfoss.com##.site-footer
+itsfoss.com###genesis-footer-widgets
+itsfoss.com##[href="https://itsfoss.com/feedback/"]
+itsfoss.com###menu-item-10108 > .sf-with-ul
+itsfoss.com##.has-large-font-size
+itsfoss.com##.alignwide.gb-2-col-wideleft.gb-layout-columns-2.wp-block-genesis-blocks-gb-columns > .gb-is-responsive-column.gb-block-layout-column-gap-2.gb-layout-column-wrap > div.gb-block-layout-column.wp-block-genesis-blocks-gb-column:nth-of-type(1)
+itsfoss.com##.alignwide.gb-2-col-wideleft.gb-layout-columns-2.wp-block-genesis-blocks-gb-columns > .gb-is-responsive-column.gb-block-layout-column-gap-2.gb-layout-column-wrap > div.gb-block-layout-column.wp-block-genesis-blocks-gb-column
+itsfoss.com##.ugb-31b6c72-content-wrapper.ugb-container__content-wrapper > h2
+itsfoss.com##.ugb-31b6c72-content-wrapper.ugb-container__content-wrapper > p
+
+! 2021-05-06 https://linuxhint.com
+linuxhint.com##.header-3-wrapper.header-main-area.container
+linuxhint.com###main-box-3 > .main-box-inside
+linuxhint.com###footer > .container
+linuxhint.com##.site-info.container-full
+linuxhint.com###back-top
+
+! 2021-05-06 https://techcrunch.com
+techcrunch.com##.button--subscribe.button--secondary.button
+techcrunch.com###jacSandbox_3278797
+techcrunch.com###tc-ad-leaderboard > .jac-container
+techcrunch.com##.wrap
+techcrunch.com##.menu__item--extra-crunch.menu__item > [href]
+techcrunch.com##.search-toggle--search.search-toggle > label
+techcrunch.com##.navigation__main-menu.menu > li.menu__item > [href="/pages/advertisement-events-calendar/"]
+techcrunch.com##li.menu__item:nth-of-type(9)
+techcrunch.com##[href="/newsletters"]
+techcrunch.com##li.menu__item:nth-of-type(5)
+techcrunch.com##.menu__item--extra-crunch.menu__item
+techcrunch.com##article.mini-item--unread.mini-view__item > .premium-content__label > .premium-content__label__icon
+
+! 2021-05-06 https://www.bbc.co.uk
+www.bbc.co.uk##.exhqgzu6.ssrcss-u3tmht-ConsentBanner
+www.bbc.co.uk##.eki2hvo8.ssrcss-waaubd-NavigationLink-AccountLink
+www.bbc.co.uk##.eki2hvo6.ssrcss-cygy4i-NavigationLink
+www.bbc.co.uk##li.eki2hvo3.ssrcss-so3uhw-GlobalNavigationProduct:nth-of-type(10)
+www.bbc.co.uk##.eki2hvo15.ssrcss-k1vu3q-SearchText
+www.bbc.co.uk##.eki2hvo14.ssrcss-sa2skc-MenuLabel
+www.bbc.co.uk##.ejnx8uh0.ssrcss-3esohe-GlobalFooter
+www.bbc.co.uk##.e1ksmnp81.ssrcss-12xpb7v-StyledContent
+www.bbc.co.uk##.efc3qse2.ssrcss-dd6vbz-StyledContainer
+techcrunch.com##article.mini-item--unread.mini-view__item > .premium-content__label > .gradient-text--gold-gradient.gradient-text.premium-content__label__text
+
+! 2021-05-06 https://www.dailymail.co.uk
+www.dailymail.co.uk##.desktop_2jEgC.container_1gQfi
+www.dailymail.co.uk##.overlay_el5_B
+www.dailymail.co.uk##div.gamma > .article-tri-headline.article > .article-icon-links-container > .cleared.article-icon-links > .facebook
+www.dailymail.co.uk##.floating-buttons
+www.dailymail.co.uk##div.column-split > div.article-small.article > .article-icon-links-container
+www.dailymail.co.uk##.first-column.column-split > .cleared.article-large.article > .articletext-holder > .article-icon-links-container
+www.dailymail.co.uk##div.gamma > .article-tri-headline.article > .article-icon-links-container > .cleared.article-icon-links
+www.dailymail.co.uk##.alpha > div.article-tri-headline.article > .article-icon-links-container > .cleared.article-icon-links
+www.dailymail.co.uk##.mol-fe-vouchercodes-redesign
+www.dailymail.co.uk##.js-links.cleared.dm-tabs.home
+www.dailymail.co.uk##.dm-tab-pane
+www.dailymail.co.uk##.page-footer
+www.dailymail.co.uk##.and-footer > p
+www.dailymail.co.uk##.last.copyRight
+www.dailymail.co.uk##.and-footer
+www.dailymail.co.uk##div.gamma:nth-of-type(7) > div.module.thin_divide.item.home:nth-of-type(4) > .bdrcc.linkro-box.link-ccox.ccox.thin-split > h6
+www.dailymail.co.uk##div.gamma:nth-of-type(7) > div.module.thin_divide.item.home:nth-of-type(4) > .bdrcc.linkro-box.link-ccox.ccox.thin-split
+www.dailymail.co.uk##.links
+www.dailymail.co.uk##.molads_sky_left_top.adHolder.sky
+www.dailymail.co.uk##.molads_sky_right_top.adHolder.sky
+www.dailymail.co.uk##.billboard.adHolder
+||i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png$image
+www.dailymail.co.uk##[href="/home/weather/index.html"] > span
+||i.dailymail.co.uk/i/channelheaders/lockdown/409.png$image
+||i.dailymail.co.uk/i/furniture/facebook/DailyMail/DailyMail.png$image
