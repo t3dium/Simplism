@@ -5,7 +5,7 @@ _This list will be updated every so often with more filters._
 
 Compatibility: I made this through ublock, but **it'll work on any adblock.** To add this blocklist simply enter this url https://raw.githubusercontent.com/t3dium/Simplism/main/Simplism_Full.txt in the import filters area of your adblock, or if that doesnt work then copy and paste this files contents into "my filters" but you wouldnt get updates this way.
 
-## Current supported and antibloated websites:
+## Current supported and debloated websites:
 **Simplism Full:** Includes cookie notices/rickroll blocking, **Simplism:** minimal, just for website debloating
 
 Social Media  | News         | Search      | Other Websites  | Other Features
