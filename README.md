@@ -7,10 +7,10 @@ Compatibility: I made this through ublock, but **it'll work on any adblock.** To
 
 ## Current supported and antibloated websites:
 
-Social Media  | News         | Search      | Other
-------------- | -------------|-------------|-------------
-Invidious     |ibtimes       |Duckduckgo   | Amazon
-youtube       |metro         |Searx        | Ebay
+Social Media  | News         | Search      | Other Websites  | Other Features
+------------- | -------------|-------------|-----------------|----------------
+Invidious     |ibtimes       |Duckduckgo   | Amazon          | Blocking Cookie Banners/Notices
+youtube       |metro         |Searx        | Ebay            | Anti-rickrolls
 reddit        |wisegeek      |Startpage    | Pexels
 twitch        |nypost        |Qwant        | Anti-Rickrolls
 .             |thesun        |Ecosia       
